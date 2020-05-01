@@ -1,7 +1,7 @@
 # blog-example-react
 React web client app with node js backend connecting to mongoDB
 
-## To set up mongDB locally on windows 10
+## To set up mongoDB locally on Windows 10
 
  - First install the mongo db client for windows:
    https://docs.mongodb.com/guides/server/install/
