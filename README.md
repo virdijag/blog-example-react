@@ -22,4 +22,7 @@ React web client app with node js backend connecting to mongoDB
 
  - Then type use blog or (then name of your db), now you can start inserting some data.
  
+ ## Details to Secure MongoDB
+  
+ - https://docs.mongodb.com/manual/security
  
